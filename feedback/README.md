@@ -1,3 +1,22 @@
+Tis project was created for the test for Full stack development.
+Create a database called feedback in mongo and a collection called feeds and then execute ng serve while momgo is running to execute this app.
+
+The Idea was to use mongo collections on the back end and perform CRUD operations on each mongo collection i.e employee feedback ..etc and get the required data. On the front end I used angular and express as the middleware with CORS and body parser.
+
+Any questions please ask me !
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Feedback
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
